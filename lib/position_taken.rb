@@ -8,4 +8,5 @@ def position_taken?(board, index)
   else
     puts "true"
   end
+  !!nil
 end
